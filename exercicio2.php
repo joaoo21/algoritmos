@@ -10,3 +10,4 @@ while ($i <= 20) {
 var_dump ($vetor);
 echo "Vezes que o número 3 apareceu: ".$t;
 ?>
+
